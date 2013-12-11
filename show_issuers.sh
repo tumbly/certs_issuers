@@ -1,6 +1,6 @@
 #! /bin/sh
 
-# Show certificates issuers
+# Show certificates issuers and subjects
 
 for file in /etc/ssl/certs/*; do
     echo -n "$file: "
