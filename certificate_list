@@ -1,0 +1,1386 @@
+/etc/ssl/certs/00673b5b.0: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+
+/etc/ssl/certs/024dc131.0: issuer= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+subject= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+
+/etc/ssl/certs/02b73561.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+
+/etc/ssl/certs/039c618a.0: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+
+/etc/ssl/certs/03f0efa4.0: issuer= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+subject= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+
+/etc/ssl/certs/052e396b.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+
+/etc/ssl/certs/062cdee6.0: issuer= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/080911ac.0: issuer= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+subject= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+
+/etc/ssl/certs/0810ba98.0: issuer= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+subject= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+
+/etc/ssl/certs/08aef7bb.0: issuer= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+subject= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+
+/etc/ssl/certs/09789157.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+
+/etc/ssl/certs/0b759015.0: issuer= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+subject= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+
+/etc/ssl/certs/0c4c9b6c.0: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+
+/etc/ssl/certs/0d188d89.0: issuer= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+subject= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+
+/etc/ssl/certs/0d1b923b.0: issuer= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+subject= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+
+/etc/ssl/certs/0f11b315.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+
+/etc/ssl/certs/10531352.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+
+/etc/ssl/certs/111e6273.0: issuer= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/1155c94b.0: issuer= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+subject= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+
+/etc/ssl/certs/116bf586.0: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+
+/etc/ssl/certs/119afc2e.0: issuer= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+subject= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+
+/etc/ssl/certs/11a09b38.0: issuer= /C=DK/O=TDC/CN=TDC OCES CA
+subject= /C=DK/O=TDC/CN=TDC OCES CA
+
+/etc/ssl/certs/11f154d6.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/124bbd54.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+
+/etc/ssl/certs/12d55845.0: issuer= /O=Digital Signature Trust Co./CN=DST Root CA X3
+subject= /O=Digital Signature Trust Co./CN=DST Root CA X3
+
+/etc/ssl/certs/157753a5.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+
+/etc/ssl/certs/17b51fe6.0: issuer= /C=FR/O=Certplus/CN=Class 2 Primary CA
+subject= /C=FR/O=Certplus/CN=Class 2 Primary CA
+
+/etc/ssl/certs/18856ac4.0: issuer= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+subject= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+
+/etc/ssl/certs/1dac3003.0: issuer= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+subject= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+
+/etc/ssl/certs/1dcd6f4c.0: issuer= /C=TW/O=Government Root Certification Authority
+subject= /C=TW/O=Government Root Certification Authority
+
+/etc/ssl/certs/1df5ec47.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+
+/etc/ssl/certs/1e8e7201.0: issuer= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/1eb37bdf.0: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+
+/etc/ssl/certs/1ec4d31a.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/201cada0.0: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+
+/etc/ssl/certs/20d096ba.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/219d9499.0: issuer= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+subject= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+
+/etc/ssl/certs/2251b13a.0: issuer= /CN=ComSign Secured CA/O=ComSign/C=IL
+subject= /CN=ComSign Secured CA/O=ComSign/C=IL
+
+/etc/ssl/certs/23f4c490.0: issuer= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+subject= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+
+/etc/ssl/certs/244b5494.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+
+/etc/ssl/certs/24ad0b63.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+
+/etc/ssl/certs/256fd83b.0: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/27af790d.0: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+
+/etc/ssl/certs/2ab3b959.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+
+/etc/ssl/certs/2afc57aa.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+
+/etc/ssl/certs/2b349938.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+
+/etc/ssl/certs/2c543cd1.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+
+/etc/ssl/certs/2cfc4974.0: issuer= /C=DK/O=TDC/CN=TDC OCES CA
+subject= /C=DK/O=TDC/CN=TDC OCES CA
+
+/etc/ssl/certs/2e4eed3c.0: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+
+/etc/ssl/certs/2e5ac55d.0: issuer= /O=Digital Signature Trust Co./CN=DST Root CA X3
+subject= /O=Digital Signature Trust Co./CN=DST Root CA X3
+
+/etc/ssl/certs/2edf7016.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+
+/etc/ssl/certs/2fa87019.0: issuer= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+subject= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+
+/etc/ssl/certs/2fb1850a.0: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+
+/etc/ssl/certs/33815e15.0: issuer= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+subject= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+
+/etc/ssl/certs/343eb6cb.0: issuer= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+subject= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+
+/etc/ssl/certs/3513523f.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+
+/etc/ssl/certs/381ce4dd.0: issuer= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+subject= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+
+/etc/ssl/certs/399e7759.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+
+/etc/ssl/certs/3a3b02ce.0: issuer= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+subject= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+
+/etc/ssl/certs/3ad48a91.0: issuer= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+subject= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+
+/etc/ssl/certs/3b2716e5.0: issuer= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+subject= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+
+/etc/ssl/certs/3bde41ac.0: issuer= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+subject= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+
+/etc/ssl/certs/3c58f906.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+
+/etc/ssl/certs/3c860d51.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+
+/etc/ssl/certs/3d441de8.0: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+
+/etc/ssl/certs/3e45d192.0: issuer= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+subject= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+
+/etc/ssl/certs/3e7271e8.0: issuer= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+subject= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+
+/etc/ssl/certs/3ee7e181.0: issuer= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+subject= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+
+/etc/ssl/certs/40547a79.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+
+/etc/ssl/certs/408e388a.0: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/415660c1.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+
+/etc/ssl/certs/418595b9.0: issuer= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+subject= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+
+/etc/ssl/certs/4304c5e5.0: issuer= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+subject= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+
+/etc/ssl/certs/442adcac.0: issuer= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+subject= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+
+/etc/ssl/certs/4597689c.0: issuer= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+subject= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+
+/etc/ssl/certs/46b2fd3b.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+
+/etc/ssl/certs/480720ec.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+
+/etc/ssl/certs/48a195d8.0: issuer= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+subject= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+
+/etc/ssl/certs/48bec511.0: issuer= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+subject= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+
+/etc/ssl/certs/48ef30f1.0: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/4a6481c9.0: issuer= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/4bfab552.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+
+/etc/ssl/certs/4d654d1d.0: issuer= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+subject= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+
+/etc/ssl/certs/4e18c148.0: issuer= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+subject= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+
+/etc/ssl/certs/4f316efb.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+
+/etc/ssl/certs/4fbd6bfa.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+
+/etc/ssl/certs/5021a0a2.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+
+/etc/ssl/certs/5046c355.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+
+/etc/ssl/certs/524d9b43.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+
+/etc/ssl/certs/54edfa5d.0: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/55a10908.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/5620c4aa.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+
+/etc/ssl/certs/56657bde.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+
+/etc/ssl/certs/56b8a0b6.0: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+
+/etc/ssl/certs/56e29e75.0: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/57692373.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+
+/etc/ssl/certs/578d5c04.0: issuer= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+subject= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+
+/etc/ssl/certs/57bbd831.0: issuer= /C=JP/O=Japanese Government/OU=ApplicationCA
+subject= /C=JP/O=Japanese Government/OU=ApplicationCA
+
+/etc/ssl/certs/57bcb2da.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+
+/etc/ssl/certs/58a44af1.0: issuer= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+subject= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+
+/etc/ssl/certs/594f1775.0: issuer= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+subject= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+
+/etc/ssl/certs/5a3f0ff8.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+
+/etc/ssl/certs/5a5372fc.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+
+/etc/ssl/certs/5ad8a5d6.0: issuer= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+subject= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+
+/etc/ssl/certs/5c44d531.0: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+
+/etc/ssl/certs/5cf9d536.0: issuer= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+subject= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+
+/etc/ssl/certs/5e4e69e7.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+
+/etc/ssl/certs/5ed36f99.0: issuer= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+subject= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+
+/etc/ssl/certs/5f267794.0: issuer= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+subject= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+
+/etc/ssl/certs/60afe812.0: issuer= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+subject= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+
+/etc/ssl/certs/635ccfd5.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+
+/etc/ssl/certs/6410666e.0: issuer= /C=TW/O=Government Root Certification Authority
+subject= /C=TW/O=Government Root Certification Authority
+
+/etc/ssl/certs/653b494a.0: issuer= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+subject= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+
+/etc/ssl/certs/656b3e35.0: issuer= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+subject= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+
+/etc/ssl/certs/65b876bd.0: issuer= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+subject= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+
+/etc/ssl/certs/667c66d4.0: issuer= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+subject= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+
+/etc/ssl/certs/67495436.0: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+
+/etc/ssl/certs/67d559d1.0: issuer= /C=FI/O=Sonera/CN=Sonera Class1 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class1 CA
+
+/etc/ssl/certs/69105f4f.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+
+/etc/ssl/certs/6adf0799.0: issuer= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+subject= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+
+/etc/ssl/certs/6b99d060.0: issuer= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+subject= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+
+/etc/ssl/certs/6cc3c4c3.0: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+
+/etc/ssl/certs/6e52cc39.0: issuer= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+subject= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+
+/etc/ssl/certs/6e8bf996.0: issuer= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+subject= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+
+/etc/ssl/certs/6f2c1157.0: issuer= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+subject= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+
+/etc/ssl/certs/6faac4e3.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/6fcc125d.0: issuer= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+subject= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+
+/etc/ssl/certs/706f604c.0: issuer= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+subject= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+
+/etc/ssl/certs/72f369af.0: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+
+/etc/ssl/certs/72fa7371.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/74c26bd0.0: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+
+/etc/ssl/certs/755f7420.0: issuer= /C=FI/O=Sonera/CN=Sonera Class1 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class1 CA
+
+/etc/ssl/certs/75680d2e.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+
+/etc/ssl/certs/7651b327.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+
+/etc/ssl/certs/76579174.0: issuer= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+subject= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+
+/etc/ssl/certs/7672ac4b.0: issuer= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+subject= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+
+/etc/ssl/certs/76cb8f92.0: issuer= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+subject= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+
+/etc/ssl/certs/76faf6c0.0: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+
+/etc/ssl/certs/778e3cb0.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+
+/etc/ssl/certs/78f358dd: issuer= /CN=shadok-macpro
+subject= /CN=shadok-macpro
+
+/etc/ssl/certs/790a7190.0: issuer= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+subject= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+
+/etc/ssl/certs/7999be0d.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+
+/etc/ssl/certs/79ad8b43.0: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+
+/etc/ssl/certs/7a481e66.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+
+/etc/ssl/certs/7a819ef2.0: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+
+/etc/ssl/certs/7d0b38bd.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+
+/etc/ssl/certs/7d3cd826.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/7d453d8f.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/7d5a75e4.0: issuer= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+subject= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+
+/etc/ssl/certs/812e17de.0: issuer= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+subject= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+
+/etc/ssl/certs/8160b96c.0: issuer= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+subject= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+
+/etc/ssl/certs/81b9768f.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+
+/etc/ssl/certs/8317b10c.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+
+/etc/ssl/certs/8470719d.0: issuer= /O=RSA Security Inc/OU=RSA Security 2048 V3
+subject= /O=RSA Security Inc/OU=RSA Security 2048 V3
+
+/etc/ssl/certs/84cba82f.0: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+
+/etc/ssl/certs/85cde254.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+
+/etc/ssl/certs/861a399d.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+
+/etc/ssl/certs/861e0100.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+
+/etc/ssl/certs/86212b19.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+
+/etc/ssl/certs/87753b0d.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+
+/etc/ssl/certs/882de061.0: issuer= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+subject= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+
+/etc/ssl/certs/8867006a.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+
+/etc/ssl/certs/88f89ea7.0: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+
+/etc/ssl/certs/895cad1a.0: issuer= /C=CN/O=CNNIC/CN=CNNIC ROOT
+subject= /C=CN/O=CNNIC/CN=CNNIC ROOT
+
+/etc/ssl/certs/89c02a45.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+
+/etc/ssl/certs/8b59b1ad.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+
+/etc/ssl/certs/8d86cdd1.0: issuer= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+subject= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+
+/etc/ssl/certs/8e52d3cd.0: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+
+/etc/ssl/certs/8f7b96c4.0: issuer= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+subject= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+
+/etc/ssl/certs/9339512a.0: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+
+/etc/ssl/certs/93bc0acc.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+
+/etc/ssl/certs/95aff9e3.0: issuer= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+subject= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+
+/etc/ssl/certs/9685a493.0: issuer= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+subject= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+
+/etc/ssl/certs/972672fc.0: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/9772ca32.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+
+/etc/ssl/certs/9818ca0b.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+
+/etc/ssl/certs/988a38cb.0: issuer= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+subject= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+
+/etc/ssl/certs/98ec67f0.0: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+
+/etc/ssl/certs/99d0fa06.0: issuer= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+subject= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+
+/etc/ssl/certs/9af9f759.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/9b353c9a.0: issuer= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+subject= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+
+/etc/ssl/certs/9c2e7d30.0: issuer= /C=FI/O=Sonera/CN=Sonera Class2 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class2 CA
+
+/etc/ssl/certs/9c472bf7.0: issuer= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+subject= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+
+/etc/ssl/certs/9c8dfbd4.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+
+/etc/ssl/certs/9d520b32.0: issuer= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+subject= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+
+/etc/ssl/certs/9d6523ce.0: issuer= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+subject= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+
+/etc/ssl/certs/9dbefe7b.0: issuer= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+subject= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+
+/etc/ssl/certs/9ec3a561.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+
+/etc/ssl/certs/9f533518.0: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+
+/etc/ssl/certs/9f541fb4.0: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+
+/etc/ssl/certs/A-Trust-nQual-03.pem: issuer= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+subject= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+
+/etc/ssl/certs/ACEDICOM_Root.pem: issuer= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+subject= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+
+/etc/ssl/certs/AC_Raíz_Certicámara_S.A..pem: issuer= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+subject= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+
+/etc/ssl/certs/AddTrust_External_Root.pem: issuer= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust External TTP Network/CN=AddTrust External CA Root
+
+/etc/ssl/certs/AddTrust_Low-Value_Services_Root.pem: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+
+/etc/ssl/certs/AddTrust_Public_Services_Root.pem: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+
+/etc/ssl/certs/AddTrust_Qualified_Certificates_Root.pem: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+
+/etc/ssl/certs/AffirmTrust_Commercial.pem: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+
+/etc/ssl/certs/AffirmTrust_Networking.pem: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Networking
+
+/etc/ssl/certs/AffirmTrust_Premium.pem: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+
+/etc/ssl/certs/AffirmTrust_Premium_ECC.pem: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+
+/etc/ssl/certs/America_Online_Root_Certification_Authority_1.pem: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+
+/etc/ssl/certs/America_Online_Root_Certification_Authority_2.pem: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 2
+
+/etc/ssl/certs/ApplicationCA_-_Japanese_Government.pem: issuer= /C=JP/O=Japanese Government/OU=ApplicationCA
+subject= /C=JP/O=Japanese Government/OU=ApplicationCA
+
+/etc/ssl/certs/Autoridad_de_Certificacion_Firmaprofesional_CIF_A62634068.pem: issuer= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+subject= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+
+/etc/ssl/certs/Baltimore_CyberTrust_Root.pem: issuer= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+subject= /C=IE/O=Baltimore/OU=CyberTrust/CN=Baltimore CyberTrust Root
+
+/etc/ssl/certs/Buypass_Class_2_CA_1.pem: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+
+/etc/ssl/certs/Buypass_Class_3_CA_1.pem: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+
+/etc/ssl/certs/CA_Disig.pem: issuer= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+subject= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+
+/etc/ssl/certs/CNNIC_ROOT.pem: issuer= /C=CN/O=CNNIC/CN=CNNIC ROOT
+subject= /C=CN/O=CNNIC/CN=CNNIC ROOT
+
+/etc/ssl/certs/COMODO_Certification_Authority.pem: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO Certification Authority
+
+/etc/ssl/certs/COMODO_ECC_Certification_Authority.pem: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+
+/etc/ssl/certs/Camerfirma_Chambers_of_Commerce_Root.pem: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+
+/etc/ssl/certs/Camerfirma_Global_Chambersign_Root.pem: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+
+/etc/ssl/certs/Certigna.pem: issuer= /C=FR/O=Dhimyotis/CN=Certigna
+subject= /C=FR/O=Dhimyotis/CN=Certigna
+
+/etc/ssl/certs/Certinomis_-_Autorité_Racine.pem: issuer= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+subject= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+
+/etc/ssl/certs/Certplus_Class_2_Primary_CA.pem: issuer= /C=FR/O=Certplus/CN=Class 2 Primary CA
+subject= /C=FR/O=Certplus/CN=Class 2 Primary CA
+
+/etc/ssl/certs/Certum_Root_CA.pem: issuer= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+subject= /C=PL/O=Unizeto Sp. z o.o./CN=Certum CA
+
+/etc/ssl/certs/Certum_Trusted_Network_CA.pem: issuer= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+subject= /C=PL/O=Unizeto Technologies S.A./OU=Certum Certification Authority/CN=Certum Trusted Network CA
+
+/etc/ssl/certs/Chambers_of_Commerce_Root_-_2008.pem: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+
+/etc/ssl/certs/ComSign_CA.pem: issuer= /CN=ComSign CA/O=ComSign/C=IL
+subject= /CN=ComSign CA/O=ComSign/C=IL
+
+/etc/ssl/certs/ComSign_Secured_CA.pem: issuer= /CN=ComSign Secured CA/O=ComSign/C=IL
+subject= /CN=ComSign Secured CA/O=ComSign/C=IL
+
+/etc/ssl/certs/Comodo_AAA_Services_root.pem: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+
+/etc/ssl/certs/Comodo_Secure_Services_root.pem: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+
+/etc/ssl/certs/Comodo_Trusted_Services_root.pem: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Trusted Certificate Services
+
+/etc/ssl/certs/Cybertrust_Global_Root.pem: issuer= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+subject= /O=Cybertrust, Inc/CN=Cybertrust Global Root
+
+/etc/ssl/certs/DST_ACES_CA_X6.pem: issuer= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+subject= /C=US/O=Digital Signature Trust/OU=DST ACES/CN=DST ACES CA X6
+
+/etc/ssl/certs/DST_Root_CA_X3.pem: issuer= /O=Digital Signature Trust Co./CN=DST Root CA X3
+subject= /O=Digital Signature Trust Co./CN=DST Root CA X3
+
+/etc/ssl/certs/Deutsche_Telekom_Root_CA_2.pem: issuer= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+subject= /C=DE/O=Deutsche Telekom AG/OU=T-TeleSec Trust Center/CN=Deutsche Telekom Root CA 2
+
+/etc/ssl/certs/DigiCert_Assured_ID_Root_CA.pem: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+
+/etc/ssl/certs/DigiCert_Global_Root_CA.pem: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Global Root CA
+
+/etc/ssl/certs/DigiCert_High_Assurance_EV_Root_CA.pem: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert High Assurance EV Root CA
+
+/etc/ssl/certs/Digital_Signature_Trust_Co._Global_CA_1.pem: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+
+/etc/ssl/certs/Digital_Signature_Trust_Co._Global_CA_3.pem: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+
+/etc/ssl/certs/E-Guven_Kok_Elektronik_Sertifika_Hizmet_Saglayicisi.pem: issuer= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+subject= /C=TR/O=Elektronik Bilgi Guvenligi A.S./CN=e-Guven Kok Elektronik Sertifika Hizmet Saglayicisi
+
+/etc/ssl/certs/EBG_Elektronik_Sertifika_Hizmet_Sağlayıcısı.pem: issuer= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+subject= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+
+/etc/ssl/certs/Entrust.net_Premium_2048_Secure_Server_CA.pem: issuer= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+subject= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+
+/etc/ssl/certs/Entrust.net_Secure_Server_CA.pem: issuer= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+subject= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+
+/etc/ssl/certs/Entrust_Root_Certification_Authority.pem: issuer= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+subject= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+
+/etc/ssl/certs/Equifax_Secure_CA.pem: issuer= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+subject= /C=US/O=Equifax/OU=Equifax Secure Certificate Authority
+
+/etc/ssl/certs/Equifax_Secure_Global_eBusiness_CA.pem: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+
+/etc/ssl/certs/Equifax_Secure_eBusiness_CA_1.pem: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+
+/etc/ssl/certs/Equifax_Secure_eBusiness_CA_2.pem: issuer= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+subject= /C=US/O=Equifax Secure/OU=Equifax Secure eBusiness CA-2
+
+/etc/ssl/certs/Firmaprofesional_Root_CA.pem: issuer= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+subject= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+
+/etc/ssl/certs/GTE_CyberTrust_Global_Root.pem: issuer= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+subject= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+
+/etc/ssl/certs/GeoTrust_Global_CA.pem: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA
+
+/etc/ssl/certs/GeoTrust_Global_CA_2.pem: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority.pem: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Primary Certification Authority
+
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority_-_G2.pem: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2007 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G2
+
+/etc/ssl/certs/GeoTrust_Primary_Certification_Authority_-_G3.pem: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+
+/etc/ssl/certs/GeoTrust_Universal_CA.pem: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+
+/etc/ssl/certs/GeoTrust_Universal_CA_2.pem: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA 2
+
+/etc/ssl/certs/GlobalSign_Root_CA.pem: issuer= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+subject= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+
+/etc/ssl/certs/GlobalSign_Root_CA_-_R2.pem: issuer= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R2/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/GlobalSign_Root_CA_-_R3.pem: issuer= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+subject= /OU=GlobalSign Root CA - R3/O=GlobalSign/CN=GlobalSign
+
+/etc/ssl/certs/Global_Chambersign_Root_-_2008.pem: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Global Chambersign Root - 2008
+
+/etc/ssl/certs/Go_Daddy_Class_2_CA.pem: issuer= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+subject= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+
+/etc/ssl/certs/Go_Daddy_Root_Certificate_Authority_-_G2.pem: issuer= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+
+/etc/ssl/certs/Hongkong_Post_Root_CA_1.pem: issuer= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+subject= /C=HK/O=Hongkong Post/CN=Hongkong Post Root CA 1
+
+/etc/ssl/certs/IGC_A.pem: issuer= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+subject= /C=FR/ST=France/L=Paris/O=PM/SGDN/OU=DCSSI/CN=IGC/A/emailAddress=igca@sgdn.pm.gouv.fr
+
+/etc/ssl/certs/Izenpe.com.pem: issuer= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+subject= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+
+/etc/ssl/certs/Juur-SK.pem: issuer= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+subject= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+
+/etc/ssl/certs/Microsec_e-Szigno_Root_CA.pem: issuer= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+subject= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+
+/etc/ssl/certs/Microsec_e-Szigno_Root_CA_2009.pem: issuer= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+subject= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+
+/etc/ssl/certs/NetLock_Arany_=Class_Gold=_Főtanúsítvány.pem: issuer= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+subject= /C=HU/L=Budapest/O=NetLock Kft./OU=Tan\xC3\xBAs\xC3\xADtv\xC3\xA1nykiad\xC3\xB3k (Certification Services)/CN=NetLock Arany (Class Gold) F\xC5\x91tan\xC3\xBAs\xC3\xADtv\xC3\xA1ny
+
+/etc/ssl/certs/NetLock_Business_=Class_B=_Root.pem: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+
+/etc/ssl/certs/NetLock_Express_=Class_C=_Root.pem: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Expressz (Class C) Tanusitvanykiado
+
+/etc/ssl/certs/NetLock_Notary_=Class_A=_Root.pem: issuer= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+subject= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+
+/etc/ssl/certs/NetLock_Qualified_=Class_QA=_Root.pem: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Minositett Kozjegyzoi (Class QA) Tanusitvanykiado/emailAddress=info@netlock.hu
+
+/etc/ssl/certs/Network_Solutions_Certificate_Authority.pem: issuer= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+subject= /C=US/O=Network Solutions L.L.C./CN=Network Solutions Certificate Authority
+
+/etc/ssl/certs/OISTE_WISeKey_Global_Root_GA_CA.pem: issuer= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+subject= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+
+/etc/ssl/certs/QuoVadis_Root_CA.pem: issuer= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+subject= /C=BM/O=QuoVadis Limited/OU=Root Certification Authority/CN=QuoVadis Root Certification Authority
+
+/etc/ssl/certs/QuoVadis_Root_CA_2.pem: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+
+/etc/ssl/certs/QuoVadis_Root_CA_3.pem: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 3
+
+/etc/ssl/certs/RSA_Root_Certificate_1.pem: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 3 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/RSA_Security_2048_v3.pem: issuer= /O=RSA Security Inc/OU=RSA Security 2048 V3
+subject= /O=RSA Security Inc/OU=RSA Security 2048 V3
+
+/etc/ssl/certs/Root_CA_Generalitat_Valenciana.pem: issuer= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+subject= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+
+/etc/ssl/certs/S-TRUST_Authentication_and_Encryption_Root_CA_2005_PN.pem: issuer= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+subject= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+
+/etc/ssl/certs/SecureSign_RootCA11.pem: issuer= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+subject= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+
+/etc/ssl/certs/SecureTrust_CA.pem: issuer= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+subject= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+
+/etc/ssl/certs/Secure_Global_CA.pem: issuer= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+subject= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+
+/etc/ssl/certs/Security_Communication_EV_RootCA1.pem: issuer= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+subject= /C=JP/O=SECOM Trust Systems CO.,LTD./OU=Security Communication EV RootCA1
+
+/etc/ssl/certs/Security_Communication_Root_CA.pem: issuer= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+subject= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+
+/etc/ssl/certs/Sonera_Class_1_Root_CA.pem: issuer= /C=FI/O=Sonera/CN=Sonera Class1 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class1 CA
+
+/etc/ssl/certs/Sonera_Class_2_Root_CA.pem: issuer= /C=FI/O=Sonera/CN=Sonera Class2 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class2 CA
+
+/etc/ssl/certs/Staat_der_Nederlanden_Root_CA.pem: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+
+/etc/ssl/certs/Staat_der_Nederlanden_Root_CA_-_G2.pem: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA - G2
+
+/etc/ssl/certs/Starfield_Class_2_CA.pem: issuer= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+subject= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+
+/etc/ssl/certs/Starfield_Root_Certificate_Authority_-_G2.pem: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Root Certificate Authority - G2
+
+/etc/ssl/certs/Starfield_Services_Root_Certificate_Authority_-_G2.pem: issuer= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=Starfield Technologies, Inc./CN=Starfield Services Root Certificate Authority - G2
+
+/etc/ssl/certs/StartCom_Certification_Authority.pem: issuer= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+subject= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+
+/etc/ssl/certs/SwissSign_Gold_CA_-_G2.pem: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Gold CA - G2
+
+/etc/ssl/certs/SwissSign_Platinum_CA_-_G2.pem: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+
+/etc/ssl/certs/SwissSign_Silver_CA_-_G2.pem: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Silver CA - G2
+
+/etc/ssl/certs/Swisscom_Root_CA_1.pem: issuer= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+subject= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+
+/etc/ssl/certs/TC_TrustCenter_Class_2_CA_II.pem: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+
+/etc/ssl/certs/TC_TrustCenter_Class_3_CA_II.pem: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 3 CA/CN=TC TrustCenter Class 3 CA II
+
+/etc/ssl/certs/TC_TrustCenter_Universal_CA_I.pem: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+
+/etc/ssl/certs/TC_TrustCenter_Universal_CA_III.pem: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA III
+
+/etc/ssl/certs/TC_TrustCenter__Germany__Class_2_CA.pem: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 2 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/TC_TrustCenter__Germany__Class_3_CA.pem: issuer= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+subject= /C=DE/ST=Hamburg/L=Hamburg/O=TC TrustCenter for Security in Data Networks GmbH/OU=TC TrustCenter Class 3 CA/emailAddress=certificate@trustcenter.de
+
+/etc/ssl/certs/TDC_Internet_Root_CA.pem: issuer= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+subject= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+
+/etc/ssl/certs/TDC_OCES_Root_CA.pem: issuer= /C=DK/O=TDC/CN=TDC OCES CA
+subject= /C=DK/O=TDC/CN=TDC OCES CA
+
+/etc/ssl/certs/TURKTRUST_Certificate_Services_Provider_Root_1.pem: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=ANKARA/O=(c) 2005 T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E.
+
+/etc/ssl/certs/TURKTRUST_Certificate_Services_Provider_Root_2.pem: issuer= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+subject= /CN=T\xC3\x9CRKTRUST Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/C=TR/L=Ankara/O=T\xC3\x9CRKTRUST Bilgi \xC4\xB0leti\xC5\x9Fim ve Bili\xC5\x9Fim G\xC3\xBCvenli\xC4\x9Fi Hizmetleri A.\xC5\x9E. (c) Kas\xC4\xB1m 2005
+
+/etc/ssl/certs/TWCA_Root_Certification_Authority.pem: issuer= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+subject= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+
+/etc/ssl/certs/Taiwan_GRCA.pem: issuer= /C=TW/O=Government Root Certification Authority
+subject= /C=TW/O=Government Root Certification Authority
+
+/etc/ssl/certs/Thawte_Premium_Server_CA.pem: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+
+/etc/ssl/certs/Thawte_Server_CA.pem: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+
+/etc/ssl/certs/TÜBİTAK_UEKAE_Kök_Sertifika_Hizmet_Sağlayıcısı_-_Sürüm_3.pem: issuer= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+subject= /C=TR/L=Gebze - Kocaeli/O=T\xC3\xBCrkiye Bilimsel ve Teknolojik Ara\xC5\x9Ft\xC4\xB1rma Kurumu - T\xC3\x9CB\xC4\xB0TAK/OU=Ulusal Elektronik ve Kriptoloji Ara\xC5\x9Ft\xC4\xB1rma Enstit\xC3\xBCs\xC3\xBC - UEKAE/OU=Kamu Sertifikasyon Merkezi/CN=T\xC3\x9CB\xC4\xB0TAK UEKAE K\xC3\xB6k Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1 - S\xC3\xBCr\xC3\xBCm 3
+
+/etc/ssl/certs/UTN_DATACorp_SGC_Root_CA.pem: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN - DATACorp SGC
+
+/etc/ssl/certs/UTN_USERFirst_Email_Root_CA.pem: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+
+/etc/ssl/certs/UTN_USERFirst_Hardware_Root_CA.pem: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+
+/etc/ssl/certs/UbuntuOne-Go_Daddy_CA.pem: issuer= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+subject= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./OU=http://certificates.godaddy.com/repository/CN=Go Daddy Secure Certification Authority/serialNumber=07969287
+
+/etc/ssl/certs/UbuntuOne-Go_Daddy_Class_2_CA.pem: issuer= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+subject= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+
+/etc/ssl/certs/ValiCert_Class_1_VA.pem: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/ValiCert_Class_2_VA.pem: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/ValiCert_Class_2_VA.pem.dpkg-new: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G4.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2007 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G4
+
+/etc/ssl/certs/VeriSign_Class_3_Public_Primary_Certification_Authority_-_G5.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+
+/etc/ssl/certs/VeriSign_Universal_Root_Certification_Authority.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority
+
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority_-_G2.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/Verisign_Class_1_Public_Primary_Certification_Authority_-_G3.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/Verisign_Class_2_Public_Primary_Certification_Authority.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+
+/etc/ssl/certs/Verisign_Class_2_Public_Primary_Certification_Authority_-_G2.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/Verisign_Class_2_Public_Primary_Certification_Authority_-_G3.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority
+
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority_-_G2.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 3 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/Verisign_Class_3_Public_Primary_Certification_Authority_-_G3.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/Verisign_Class_4_Public_Primary_Certification_Authority_-_G2.pem: issuer= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/Verisign_Class_4_Public_Primary_Certification_Authority_-_G3.pem: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/Visa_eCommerce_Root.pem: issuer= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+subject= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+
+/etc/ssl/certs/WellsSecure_Public_Root_Certificate_Authority.pem: issuer= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+subject= /C=US/O=Wells Fargo WellsSecure/OU=Wells Fargo Bank NA/CN=WellsSecure Public Root Certificate Authority
+
+/etc/ssl/certs/Wells_Fargo_Root_CA.pem: issuer= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+subject= /C=US/O=Wells Fargo/OU=Wells Fargo Certification Authority/CN=Wells Fargo Root Certificate Authority
+
+/etc/ssl/certs/XRamp_Global_CA_Root.pem: issuer= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+subject= /C=US/OU=www.xrampsecurity.com/O=XRamp Security Services Inc/CN=XRamp Global Certification Authority
+
+/etc/ssl/certs/a0bc6fbb.0: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+
+/etc/ssl/certs/a15b3b6b.0: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E2
+
+/etc/ssl/certs/a2df7ad7.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Public CA Root
+
+/etc/ssl/certs/a3896b44.0: issuer= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+subject= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+
+/etc/ssl/certs/a5fd78f0.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Class 2 CA/CN=TC TrustCenter Class 2 CA II
+
+/etc/ssl/certs/a6a593ba.0: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+
+/etc/ssl/certs/a7605362.0: issuer= /C=FI/O=Sonera/CN=Sonera Class2 CA
+subject= /C=FI/O=Sonera/CN=Sonera Class2 CA
+
+/etc/ssl/certs/a760e1bd.0: issuer= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+subject= /C=US/O=VISA/OU=Visa International Service Association/CN=Visa eCommerce Root
+
+/etc/ssl/certs/a7d2cf64.0: issuer= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+subject= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+
+/etc/ssl/certs/a8dee976.0: issuer= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+subject= /C=CH/O=SwissSign AG/CN=SwissSign Platinum CA - G2
+
+/etc/ssl/certs/ab5346f4.0: issuer= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+subject= /C=JP/O=Japan Certification Services, Inc./CN=SecureSign RootCA11
+
+/etc/ssl/certs/ad088e1d.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+
+/etc/ssl/certs/add67345.0: issuer= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+subject= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+
+/etc/ssl/certs/ae8153b9.0: issuer= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+subject= /C=IL/O=StartCom Ltd./OU=Secure Digital Certificate Signing/CN=StartCom Certification Authority
+
+/etc/ssl/certs/aee5f10d.0: issuer= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+subject= /O=Entrust.net/OU=www.entrust.net/CPS_2048 incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Certification Authority (2048)
+
+/etc/ssl/certs/b097d71d.0: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/b0f3e76e.0: issuer= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+subject= /C=BE/O=GlobalSign nv-sa/OU=Root CA/CN=GlobalSign Root CA
+
+/etc/ssl/certs/b1159c4c.0: issuer= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+subject= /C=US/O=DigiCert Inc/OU=www.digicert.com/CN=DigiCert Assured ID Root CA
+
+/etc/ssl/certs/b13cc6df.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+
+/etc/ssl/certs/b1b8a7f3.0: issuer= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+subject= /C=CH/O=WISeKey/OU=Copyright (c) 2005/OU=OISTE Foundation Endorsed/CN=OISTE WISeKey Global Root GA CA
+
+/etc/ssl/certs/b204d74a.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+
+/etc/ssl/certs/b42ff584.0: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+
+/etc/ssl/certs/b5f329fa.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority
+
+/etc/ssl/certs/b66938e9.0: issuer= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+subject= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+
+/etc/ssl/certs/b6c5745d.0: issuer= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+subject= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+
+/etc/ssl/certs/b727005e.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+
+/etc/ssl/certs/b7a5b843.0: issuer= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+subject= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+
+/etc/ssl/certs/b7db1890.0: issuer= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+subject= /C=TW/O=TAIWAN-CA/OU=Root CA/CN=TWCA Root Certification Authority
+
+/etc/ssl/certs/b7e7231a.0: issuer= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+subject= /C=HU/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Uzleti (Class B) Tanusitvanykiado
+
+/etc/ssl/certs/b8e83700.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/ba89ed3b.0: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+
+/etc/ssl/certs/bad35b78.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/bb2d49a0.0: issuer= /CN=ComSign CA/O=ComSign/C=IL
+subject= /CN=ComSign CA/O=ComSign/C=IL
+
+/etc/ssl/certs/bc3f2570.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+
+/etc/ssl/certs/bcdd5959.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 2 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/bd1910d4.0: issuer= /C=CN/O=CNNIC/CN=CNNIC ROOT
+subject= /C=CN/O=CNNIC/CN=CNNIC ROOT
+
+/etc/ssl/certs/bda4cc84.0: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+
+/etc/ssl/certs/bdacca6f.0: issuer= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+subject= /C=US/O=SecureTrust Corporation/CN=Secure Global CA
+
+/etc/ssl/certs/bf64f35b.0: issuer= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+subject= /C=US/O=Entrust, Inc./OU=www.entrust.net/CPS is incorporated by reference/OU=(c) 2006 Entrust, Inc./CN=Entrust Root Certification Authority
+
+/etc/ssl/certs/c01cdfa2.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2008 VeriSign, Inc. - For authorized use only/CN=VeriSign Universal Root Certification Authority
+
+/etc/ssl/certs/c089bbbd.0: issuer= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+subject= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+
+/etc/ssl/certs/c0ff1f52.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/c19d42c7.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 1 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/c215bc69.0: issuer= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+subject= /C=US/O=Digital Signature Trust Co./OU=DSTCA E1
+
+/etc/ssl/certs/c33a80d4.0: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Premium Server CA/emailAddress=premium-server@thawte.com
+
+/etc/ssl/certs/c3a6a9ad.0: issuer= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+subject= /C=AT/O=A-Trust Ges. f. Sicherheitssysteme im elektr. Datenverkehr GmbH/OU=A-Trust-nQual-03/CN=A-Trust-nQual-03
+
+/etc/ssl/certs/c47d9980.0: issuer= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+subject= /C=EU/L=Madrid (see current address at www.camerfirma.com/address)/serialNumber=A82743287/O=AC Camerfirma S.A./CN=Chambers of Commerce Root - 2008
+
+/etc/ssl/certs/c527e4ab.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 4 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/c5e082db.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Client Authentication and Email
+
+/etc/ssl/certs/c692a373.0: issuer= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+subject= /C=US/O=GTE Corporation/OU=GTE CyberTrust Solutions, Inc./CN=GTE CyberTrust Global Root
+
+/etc/ssl/certs/c7e2a638.0: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+
+/etc/ssl/certs/c8763593.0: issuer= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+subject= /C=CO/O=Sociedad Cameral de Certificaci\xC3\xB3n Digital - Certic\xC3\xA1mara S.A./CN=AC Ra\xC3\xADz Certic\xC3\xA1mara S.A.
+
+/etc/ssl/certs/c8841d13.0: issuer= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+subject= /C=DE/O=TC TrustCenter GmbH/OU=TC TrustCenter Universal CA/CN=TC TrustCenter Universal CA I
+
+/etc/ssl/certs/c99398f3.0: issuer= /O=RSA Security Inc/OU=RSA Security 2048 V3
+subject= /O=RSA Security Inc/OU=RSA Security 2048 V3
+
+/etc/ssl/certs/c9f83a1c.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=Secure Certificate Services
+
+/etc/ssl/certs/ca-certificates.crt: issuer= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+subject= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+
+/etc/ssl/certs/ca.pem: issuer= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+subject= /C=DE/ST=Hessen/L=Fulda/O=Debconf/CN=Debconf CA/emailAddress=joerg@debian.org
+
+/etc/ssl/certs/ca6e4ad9.0: issuer= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+subject= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+
+/etc/ssl/certs/cacert.org.pem: issuer= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+subject= /O=Root CA/OU=http://www.cacert.org/CN=CA Cert Signing Authority/emailAddress=support@cacert.org
+
+/etc/ssl/certs/cb357862.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/cb59f961.0: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Global Chambersign Root
+
+/etc/ssl/certs/cbeee9e2.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Global CA 2
+
+/etc/ssl/certs/cbf06781.0: issuer= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+subject= /C=US/ST=Arizona/L=Scottsdale/O=GoDaddy.com, Inc./CN=Go Daddy Root Certificate Authority - G2
+
+/etc/ssl/certs/cc450945.0: issuer= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+subject= /C=ES/O=IZENPE S.A./CN=Izenpe.com
+
+/etc/ssl/certs/ccc52f49.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium ECC
+
+/etc/ssl/certs/cdaebb72.0: issuer= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+subject= /C=NL/O=Staat der Nederlanden/CN=Staat der Nederlanden Root CA
+
+/etc/ssl/certs/ce026bf8.0: issuer= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+subject= /C=ES/L=C/ Muntaner 244 Barcelona/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068/emailAddress=ca@firmaprofesional.com
+
+/etc/ssl/certs/certSIGN_ROOT_CA.pem: issuer= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+subject= /C=RO/O=certSIGN/OU=certSIGN ROOT CA
+
+/etc/ssl/certs/cf701eeb.0: issuer= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+subject= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+
+/etc/ssl/certs/cfa1c2ee.0: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 2 CA 1
+
+/etc/ssl/certs/d16a5865.0: issuer= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+subject= /C=ES/CN=Autoridad de Certificacion Firmaprofesional CIF A62634068
+
+/etc/ssl/certs/d537fba6.0: issuer= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+subject= /C=DK/O=TDC Internet/OU=TDC Internet Root CA
+
+/etc/ssl/certs/d64f06f3.0: issuer= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+subject= /C=SK/L=Bratislava/O=Disig a.s./CN=CA Disig
+
+/etc/ssl/certs/d78a75c7.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/d7e8dc79.0: issuer= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+subject= /C=BM/O=QuoVadis Limited/CN=QuoVadis Root CA 2
+
+/etc/ssl/certs/d957f522.0: issuer= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+subject= /C=FR/O=Certinomis/OU=0002 433998903/CN=Certinomis - Autorit\xC3\xA9 Racine
+
+/etc/ssl/certs/d9d12c58.0: issuer= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+subject= /C=HU/ST=Hungary/L=Budapest/O=NetLock Halozatbiztonsagi Kft./OU=Tanusitvanykiadok/CN=NetLock Kozjegyzoi (Class A) Tanusitvanykiado
+
+/etc/ssl/certs/dbc54cab.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Premium
+
+/etc/ssl/certs/dc45b0bd.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 2 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/ddc328ff.0: issuer= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+subject= /C=ZA/ST=Western Cape/L=Cape Town/O=Thawte Consulting cc/OU=Certification Services Division/CN=Thawte Server CA/emailAddress=server-certs@thawte.com
+
+/etc/ssl/certs/e113c810.0: issuer= /C=FR/O=Dhimyotis/CN=Certigna
+subject= /C=FR/O=Dhimyotis/CN=Certigna
+
+/etc/ssl/certs/e268a4c5.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Class 1 CA Root
+
+/etc/ssl/certs/e2799e36.0: issuer= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+subject= /C=US/O=GeoTrust Inc./OU=(c) 2008 GeoTrust Inc. - For authorized use only/CN=GeoTrust Primary Certification Authority - G3
+
+/etc/ssl/certs/e48193cf.0: issuer= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+subject= /C=US/O=AffirmTrust/CN=AffirmTrust Commercial
+
+/etc/ssl/certs/e536d871.0: issuer= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+subject= /C=SE/O=AddTrust AB/OU=AddTrust TTP Network/CN=AddTrust Qualified CA Root
+
+/etc/ssl/certs/e60bf0c0.0: issuer= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+subject= /C=ch/O=Swisscom/OU=Digital Certificate Services/CN=Swisscom Root CA 1
+
+/etc/ssl/certs/e775ed2d.0: issuer= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+subject= /C=US/O=GeoTrust Inc./CN=GeoTrust Universal CA
+
+/etc/ssl/certs/e7b8d656.0: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure eBusiness CA-1
+
+/etc/ssl/certs/e8651083.0: issuer= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+subject= /C=HU/L=Budapest/O=Microsec Ltd./CN=Microsec e-Szigno Root CA 2009/emailAddress=info@e-szigno.hu
+
+/etc/ssl/certs/ePKI_Root_Certification_Authority.pem: issuer= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+subject= /C=TW/O=Chunghwa Telecom Co., Ltd./OU=ePKI Root Certification Authority
+
+/etc/ssl/certs/ea169617.0: issuer= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+subject= /CN=ACEDICOM Root/OU=PKI/O=EDICOM/C=ES
+
+/etc/ssl/certs/eacdeb40.0: issuer= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+subject= /C=US/O=America Online Inc./CN=America Online Root Certification Authority 1
+
+/etc/ssl/certs/eb375c3e.0: issuer= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+subject= /C=NO/O=Buypass AS-983163327/CN=Buypass Class 3 CA 1
+
+/etc/ssl/certs/ec87c655.0: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/ed049835.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 4 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/ed524cf5.0: issuer= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+subject= /C=US/O=Entrust.net/OU=www.entrust.net/CPS incorp. by ref. (limits liab.)/OU=(c) 1999 Entrust.net Limited/CN=Entrust.net Secure Server Certification Authority
+
+/etc/ssl/certs/ed62f4e3.0: issuer= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+subject= /C=US/O=VeriSign, Inc./OU=Class 2 Public Primary Certification Authority - G2/OU=(c) 1998 VeriSign, Inc. - For authorized use only/OU=VeriSign Trust Network
+
+/etc/ssl/certs/ee1365c0.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 1999 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 1 Public Primary Certification Authority - G3
+
+/etc/ssl/certs/ee64a828.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=Comodo CA Limited/CN=AAA Certificate Services
+
+/etc/ssl/certs/ee7cd6fb.0: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+
+/etc/ssl/certs/eed8c118.0: issuer= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+subject= /C=GB/ST=Greater Manchester/L=Salford/O=COMODO CA Limited/CN=COMODO ECC Certification Authority
+
+/etc/ssl/certs/ef2f636c.0: issuer= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+subject= /C=US/O=Equifax Secure Inc./CN=Equifax Secure Global eBusiness CA-1
+
+/etc/ssl/certs/f060240e.0: issuer= /C=FR/O=Certplus/CN=Class 2 Primary CA
+subject= /C=FR/O=Certplus/CN=Class 2 Primary CA
+
+/etc/ssl/certs/f081611a.0: issuer= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+subject= /C=US/O=The Go Daddy Group, Inc./OU=Go Daddy Class 2 Certification Authority
+
+/etc/ssl/certs/f3377b1b.0: issuer= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+subject= /C=JP/O=SECOM Trust.net/OU=Security Communication RootCA1
+
+/etc/ssl/certs/f387163d.0: issuer= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+subject= /C=US/O=Starfield Technologies, Inc./OU=Starfield Class 2 Certification Authority
+
+/etc/ssl/certs/f39fc864.0: issuer= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+subject= /C=US/O=SecureTrust Corporation/CN=SecureTrust CA
+
+/etc/ssl/certs/f4996e82.0: issuer= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+subject= /L=ValiCert Validation Network/O=ValiCert, Inc./OU=ValiCert Class 1 Policy Validation Authority/CN=http://www.valicert.com//emailAddress=info@valicert.com
+
+/etc/ssl/certs/f559733c.0: issuer= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+subject= /C=DE/ST=Baden-Wuerttemberg (BW)/L=Stuttgart/O=Deutscher Sparkassen Verlag GmbH/CN=S-TRUST Authentication and Encryption Root CA 2005:PN
+
+/etc/ssl/certs/f58a60fe.0: issuer= /CN=ComSign Secured CA/O=ComSign/C=IL
+subject= /CN=ComSign Secured CA/O=ComSign/C=IL
+
+/etc/ssl/certs/f61bff45.0: issuer= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+subject= /C=HU/L=Budapest/O=Microsec Ltd./OU=e-Szigno CA/CN=Microsec e-Szigno Root CA
+
+/etc/ssl/certs/f80cc7f6.0: issuer= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+subject= /CN=EBG Elektronik Sertifika Hizmet Sa\xC4\x9Flay\xC4\xB1c\xC4\xB1s\xC4\xB1/O=EBG Bili\xC5\x9Fim Teknolojileri ve Hizmetleri A.\xC5\x9E./C=TR
+
+/etc/ssl/certs/f90208f7.0: issuer= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+subject= /C=EU/O=AC Camerfirma SA CIF A82743287/OU=http://www.chambersign.org/CN=Chambers of Commerce Root
+
+/etc/ssl/certs/fac084d7.0: issuer= /C=JP/O=Japanese Government/OU=ApplicationCA
+subject= /C=JP/O=Japanese Government/OU=ApplicationCA
+
+/etc/ssl/certs/facacbc6.0: issuer= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+subject= /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5
+
+/etc/ssl/certs/fb126c6d.0: issuer= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+subject= /C=ES/O=Generalitat Valenciana/OU=PKIGVA/CN=Root CA Generalitat Valenciana
+
+/etc/ssl/certs/fcac10e3.0: issuer= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+subject= /emailAddress=pki@sk.ee/C=EE/O=AS Sertifitseerimiskeskus/CN=Juur-SK
+
+/etc/ssl/certs/fde84897.0: issuer= /C=FR/O=Dhimyotis/CN=Certigna
+subject= /C=FR/O=Dhimyotis/CN=Certigna
+
+/etc/ssl/certs/ff588423.0: issuer= /CN=ComSign CA/O=ComSign/C=IL
+subject= /CN=ComSign CA/O=ComSign/C=IL
+
+/etc/ssl/certs/ff783690.0: issuer= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+subject= /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware
+
+/etc/ssl/certs/java: /etc/ssl/certs/spi-ca-2003.pem: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certification Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/spi-cacert-2008.pem: issuer= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+subject= /C=US/ST=Indiana/L=Indianapolis/O=Software in the Public Interest/OU=hostmaster/CN=Certificate Authority/emailAddress=hostmaster@spi-inc.org
+
+/etc/ssl/certs/ssl-cert-snakeoil.pem: issuer= /CN=shadok-macpro
+subject= /CN=shadok-macpro
+
+/etc/ssl/certs/thawte_Primary_Root_CA.pem: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2006 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA
+
+/etc/ssl/certs/thawte_Primary_Root_CA_-_G2.pem: issuer= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+subject= /C=US/O=thawte, Inc./OU=(c) 2007 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G2
+
+/etc/ssl/certs/thawte_Primary_Root_CA_-_G3.pem: issuer= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+subject= /C=US/O=thawte, Inc./OU=Certification Services Division/OU=(c) 2008 thawte, Inc. - For authorized use only/CN=thawte Primary Root CA - G3
+
